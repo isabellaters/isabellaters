@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently studying software engineering
 - 👯 I’m looking to collaborate on innovative, interesting projects 
-- 🤔 I’m looking for an internship opportunity where I can apply my knowledge 
+- 🤔 I’m looking for an internship opportunity where I can apply my programming knowledge 
 - 📫 How to reach me: https://www.linkedin.com/in/isabella-ters-aa39051b3/ 
