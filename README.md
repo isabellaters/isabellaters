@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Isabella
 
 <!--
 **isabellaters/isabellaters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently studying software engineering
+- 👯 I’m looking to collaborate on innovative, interesting projects 
+- 🤔 I’m looking for an internship opportunity where I can apply my learning 
+- 📫 How to reach me: https://www.linkedin.com/in/isabella-ters-aa39051b3/ 
